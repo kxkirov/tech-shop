@@ -1,4 +1,4 @@
-# Tech Shop (BoostShop)
+# Tech Shop (BoostShop) 2024
 
 Учебный интернет-магазин техники Apple: адаптивная вёрстка на HTML/CSS/Bootstrap и заготовка REST API на Node.js + PostgreSQL.
 
